@@ -1,10 +1,10 @@
-# Image Editor #
+# Редактор зображень #
 
-## Opened Img ##
+## Відкрити зображення ##
 ![main](./docs/img/main.png)
 
-## List of tools  ##
+## Список інструментів ##
 ![ltool](./docs/img/listrool.png)
 
-## Edited img ##
+## Відредагований малюнок ##
 ![tools](./docs/img/tools.png)
